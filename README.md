@@ -1,7 +1,7 @@
 # CS2340A_Team36_S0.5
 
 Jeffrey Yang
-hayden miller
+hayden miller, 2
 Siddarth Nanduri
 Tejas Khare
 Frank Leone
